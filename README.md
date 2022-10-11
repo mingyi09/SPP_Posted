@@ -1,25 +1,13 @@
 # Team 9 Software Product Sprint Project
 
-## About
-
-
-## Website URL
-
-
-## Tools and Technologies
-
-
-
-## Running Server Locally
-```
-mvn package exec:java
-```
-
 ## Contributors
 - Katherine Yu
 - Daniela Gallegos Dupuis
 - Seokha Kang
 - Mingyi Li
+
+## Demo Video: https://drive.google.com/file/d/1-M4YMnXRxmuLH1q6ShbdwRwzTkuvplgw/view?usp=sharing
+## Website URL: http://summer22-sps-9.appspot.com
 
 
 
